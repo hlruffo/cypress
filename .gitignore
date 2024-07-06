@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Cypress specific files
+cypress/screenshots/
+cypress/videos/
+
+# Output from Cypress runs
+cypress/reports/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# Compiled source
+lib/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
